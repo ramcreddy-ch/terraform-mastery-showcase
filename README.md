@@ -69,6 +69,14 @@ Life in production.
 - **Orchestration**: Self-hosted Atlantis vs. Terraform Cloud/Enterprise.
 - **Migration Patterns**: Blue/Green infrastructure and zero-downtime database updates.
 
+### [09. Case Study: Multi-Cloud HA](./09-multi-cloud-real-world-scenario/)
+
+The Crown Jewel of the repo.
+
+- **Strategy**: Orchestrating AWS, Azure, and GCP in a single architecture.
+- **Traffic Steering**: Weighted routing between AWS Primary and Azure DR using GCP DNS.
+- **Security**: Cross-cloud VPN and dependency inversion patterns.
+
 ---
 
 ## 🛠️ Philosophy
