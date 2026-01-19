@@ -87,5 +87,3 @@ The Crown Jewel of the repo.
 4. **State as a Secret**: State contains sensitive data; treat it like your database.
 
 ---
-
-*Curated for the Principal DevOps Engineer by the RamCReddy.*
